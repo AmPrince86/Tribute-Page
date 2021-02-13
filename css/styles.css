@@ -1,0 +1,32 @@
+html {
+    background-color: #FFFFFF;
+    font-size: 62.5%;
+}
+
+body {
+    background-color: #EEEEEE;
+    border-radius: 5px;
+    font-family: 'Lato', sans-serif;
+}
+
+p, li, a, em {
+    font-weight: 400;
+    font-size: 2.0rem;
+}
+
+/* HEADER STYLE */
+#img-div {
+    background-color: #FFFFFF;
+}
+
+/* MAIN STYLE */
+header {
+    font-size: 2.5rem;
+    padding-top: 10px; 
+    text-align: center;
+}
+
+/* IMAGE STYLE */
+
+/* FOOTER STYLE */
+
