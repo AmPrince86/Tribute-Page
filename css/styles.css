@@ -2,31 +2,69 @@ html {
     background-color: #FFFFFF;
     font-size: 62.5%;
 }
-
 body {
     background-color: #EEEEEE;
     border-radius: 5px;
+    color: #333333;
     font-family: 'Lato', sans-serif;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    border: 0px solid black;
 }
-
 p, li, a, em {
     font-weight: 400;
-    font-size: 2.0rem;
+    font-size: 1.6rem;
 }
 
 /* HEADER STYLE */
-#img-div {
-    background-color: #FFFFFF;
-}
-
-/* MAIN STYLE */
 header {
-    font-size: 2.5rem;
+    font-size: 2.0rem;
     padding-top: 10px; 
     text-align: center;
 }
 
 /* IMAGE STYLE */
+#img-div {
+    background-color: #FFFFFF;
+    margin: 2.0rem;
+    padding: 1.5rem;
+    text-align: center;
+}
+#image {
+    width: 100%;
+    margin: auto;
+}
+#img-caption {
+    margin-bottom: 5px;
+
+}
+/* MAIN STYLE */
+#tribute-info {
+    border: 0px solid black;
+    text-align: center;
+    font-size: 1.9rem;
+    padding: 35px 0;
+}
+ul {
+    width: 45%;
+    position: relative;
+    left: 25%;
+    border: 0px solid blue;
+    line-height: 24px;
+}
+
+li {
+    border: 0px solid green;
+    margin: 13px;
+    text-align: start;
+}
+.quote {
+    border: 0px solid green;
+    padding-top: 24px;
+    width: 45%;
+    position: relative;
+    left: 28%;
+    line-height: 24px;
+}
 
 /* FOOTER STYLE */
-
